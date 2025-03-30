@@ -18,11 +18,11 @@ export function Discord() {
         {/* Text Content */}
         <div className="text-center md:text-right">
           <h2 className="text-3xl font-bold mb-6">Let&apos;s Be Social!</h2>
-          <p className="text-neutral-300 leading-relaxed mb-8 max-w-md text-right">
-            Here on Origin Realms we think communication is the key to an
-            amazing community. That’s why we value our Discord – it helps us
-            connect with our favorite people ever – you! Join us and let’s
-            create our origin together!
+          <p className="text-neutral-300 leading-relaxed mb-8 max-w-md text-center md:text-right">
+            Here on Kandang Alwi we think communication is the key to an amazing
+            community. That’s why we value our Discord – it helps us connect
+            with our favorite people ever – you! Join us and let’s create our
+            origin together!
           </p>
 
           <a
